@@ -29,9 +29,9 @@ Instead of trying to fit a multi-gigabyte model into limited RAM and failing wit
 
 🛠️ Tech Stack & Target
 
-    Primary Language: C++20 (Optimized for bare-metal performance).
+    Primary Language: C++17 (Optimized for bare-metal performance).
 
-    Isolation Strategy: Developed in nadir/repos/CPP/MemConveyorSupervisor to ensure logic purity before ecosystem integration.
+    Isolation Strategy: Developed in user/repos/CPP/MemConveyorSupervisor to ensure logic purity before ecosystem integration.
 
     Target Environment: DOSBox (Configured to 486DX @ 66MHz, 16MB RAM) and native hand-me-down mobile hardware.
 
